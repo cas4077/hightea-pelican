@@ -1,10 +1,37 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "Clara Stafford"
+image: "avatar.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/clara-alexandra-stafford-04176866/"
+  - label: Twitter
+    url: "https://twitter.com/cas4077"
+  - label: GitHub
+    url: "https://github.com/cas4077"
+  - label: Email
+    url: "mailto:cas4077@gmail.com"
+output:
+  postcards::trestles
 ---
+ 
+## Bio
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+This is a test!
 
+## Education
+
+**University of Western Ontario** | London, ON
+
+Ph.D. in Psychology | September 2017 - present
+
+**University of Western Ontario** | London, ON
+
+M.Sc. in Psychology | September 2015 - August 2017
+
+**McGill University** | Montreal, QC
+
+B.A. in Psychology | September 2012 - June 2015
+
+## Experience
+
+lolz
