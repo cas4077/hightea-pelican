@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-01-24T20:34:18-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Hightea Pelican",
+      "description": "My Data Science projects\n",
+      "author": [],
+      "contents": "\r\n\r\nAbout me\r\nEducation\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-01-24T20:49:52-05:00"
+    },
+    {
+      "path": "posts.html",
+      "title": "Posts",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-01-24T20:34:19-05:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

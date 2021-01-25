@@ -1,0 +1,21 @@
+---
+title: "Building my portfolio website with {distill}"
+description: |
+  First {distill} post
+author:
+  - name: Clara Stafford
+date: 01-24-2021
+preview: twitch-logo.png
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Here is where I will talk about my and my twitch channel and what my goals are.
+
+
