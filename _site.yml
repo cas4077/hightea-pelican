@@ -7,8 +7,8 @@ navbar:
   logo:
     image: twitch-logo.png
   right:
-    - text: "About"
-      href: about.html
+    - text: "Home"
+      href: index.html
     - text: "Posts"
       href: posts.html
     - icon: fa fa-github
