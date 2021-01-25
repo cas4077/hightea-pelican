@@ -2,7 +2,7 @@ name: "website"
 title: "Hightea Pelican Data Science"
 description: |
   Hightea Pelican Data Science
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   logo:
     image: twitch-logo.png
